@@ -36,7 +36,7 @@ OmniSyncHub/
 Internal technical documents and detailed operational guides are managed in the `/brain` directory.
 
 Please refer to the public investor dossier here:
-- [🏛️ Imperial Nexus (Fundraising Documents)](imperial_nexus/INTRO.md)
+- [🏛️ Imperial Nexus (Fundraising Documents)](./INTRO.md)
 
 ---
 
@@ -57,7 +57,7 @@ This project was founded and developed by **Mar Nguyen (@minhnguyenkhac1983)** a
 - **GitHub:** [github.com/minhnguyenkhac1983](https://github.com/minhnguyenkhac1983)
 - **Telegram:** [@MerNguyen](https://t.me/MerNguyen)
 - **Discord:** [discord.gg/marnguyen](https://discord.gg/marnguyen)
-- **Investor Dossier:** [/imperial_nexus](imperial_nexus/INTRO.md)
+- **Investor Dossier:** [/imperial_nexus](./INTRO.md)
 
 ---
 *© 2026 OmniSync Global Financial. Founder: Mar Nguyen.*
