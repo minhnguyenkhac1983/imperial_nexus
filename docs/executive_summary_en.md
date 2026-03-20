@@ -10,7 +10,7 @@
 *   **Universal Frontend:** A single **Flutter** platform for Web, Mobile, and Desktop.
 
 ## 🏰 Ecosystem Scale
-*   **24 AI Experts (Expert Agents):** Responsible for 22 core business domains and security/optimization systems.
+*   **26 AI Experts:** Responsible for 22 core business domains and security/optimization systems.
 *   **Hybrid Tiered Infrastructure:** 
     *   **Lab/R&D:** Lean mode (AMD/Spark) to optimize research costs.
     *   **Production:** Imperial system (NVIDIA/Dell) for billion-dollar scale transactions.

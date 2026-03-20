@@ -10,7 +10,7 @@
 *   **Universal Frontend:** Nền tảng **Flutter** duy nhất cho Web, Mobile, và Desktop.
 
 ## 🏰 Quy Mô Hệ Sinh Thái
-*   **24 Chuyên Gia AI (Expert Agents):** Phụ trách 22 Domain nghiệp vụ cốt lõi và hệ thống an ninh/tối ưu.
+*   **26 Chuyên Gia AI (Expert Agents):** Phụ trách 22 Domain nghiệp vụ cốt lõi và hệ thống an ninh/tối ưu.
 *   **Hạ tầng Phân tầng (Hybrid):** 
     *   **Lab/R&D:** Chế độ Lean (AMD/Spark) để tối ưu hóa chi phí nghiên cứu.
     *   **Production:** Hệ thống Imperial (NVIDIA/Dell) dành cho các giao dịch quy mô tỷ USD.
