@@ -4,15 +4,25 @@
 ![Status](https://img.shields.io/badge/Status-Architected_&_Fundraising-blue)
 ![Backend](https://img.shields.io/badge/Backend-Go_|_Rust_|_Python-green)
 
-**OmniSync Hub** là hệ sinh thái tài chính thế hệ mới, vận hành trên nền tảng **Sovereign AI** với sức mạnh của cụm 72 GPU NVIDIA Blackwell.
+**OmniSync Hub** is a next-generation financial ecosystem, operating on a **Sovereign AI** platform powered by a cluster of 72 NVIDIA Blackwell GPUs.
 
-## 🚀 Điểm Nhấn Dự Án (Highlights)
-*   **26 AI Experts:** Đội ngũ Agent AI local chuyên biệt cho từng domain tài chính.
-*   **Hạ tầng Imperial:** Sở hữu hệ thống rack NVIDIA GB200 NVL72, loại bỏ phụ thuộc vào API Cloud.
-*   **Kiến trúc Trio:** Tận dụng tối đa sức mạnh của Go, Rust và Python cho hệ thống gạch nối tài chính.
-*   **Bảo mật Tuyệt đối:** Mọi dữ liệu và trí tuệ AI đều nằm trong pháo đài Local (On-premise).
+## 🚀 Project Highlights
 
-## 🧧 Tài Liệu Chiến Lược (Strategic Documentation - 5 Languages)
+*   **26 AI Experts:** A team of specialized local AI Agents dedicated to each financial domain.
+*   **Imperial Infrastructure:** Proprietary NVIDIA GB200 NVL72 rack system, eliminating dependency on Cloud APIs.
+*   **Trio Architecture:** Maximum utilization of Go, Rust, and Python as the financial interconnect backbone.
+*   **Absolute Security:** All data and AI intelligence reside within an on-premise fortress — nothing leaves.
+
+## 🧧 Strategic Documentation (5 Languages)
+
+### 🇺🇸 English
+| Document | Description | Link |
+|---|---|---|
+| **Executive Summary** | Project Overview & Imperial Vision | [View here](docs/executive_summary_en.md) |
+| **Global GTM Plan** | Global Launch Plan | [View here](docs/global_gtm_en.md) |
+| **Agent Directory** | 26 AI Experts Detailed Directory | [View here](docs/agent_directory_en.md) |
+| **Project Assessment** | Comprehensive Project Assessment | [View here](docs/project_assessment_en.md) |
+| **Feasibility Report** | Technical Feasibility Report | [View here](docs/feasibility_report_en.md) |
 
 ### 🇻🇳 Tiếng Việt (Vietnamese)
 | Tài liệu | Mô tả | Liên kết |
@@ -23,20 +33,11 @@
 | **Project Assessment** | Đánh giá toàn diện tiềm năng | [Xem tại đây](docs/project_assessment.md) |
 | **Feasibility Report** | Báo cáo khả thi kỹ thuật | [Xem tại đây](docs/feasibility_report.md) |
 
-### 🇺🇸 English (Tiếng Anh)
-| Document | Description | Link |
-|---|---|---|
-| **Executive Summary** | Project Overview & Imperial Vision | [View here](docs/executive_summary_en.md) |
-| **Global GTM Plan** | Global Go-to-Market Strategy | [View here](docs/global_gtm_en.md) |
-| **Agent Directory** | 26 AI Experts Detailed Directory | [View here](docs/agent_directory_en.md) |
-| **Project Assessment** | Comprehensive Project Assessment | [View here](docs/project_assessment_en.md) |
-| **Feasibility Report** | Technical Feasibility Report | [View here](docs/feasibility_report_en.md) |
-
 ### 🇨🇳 中文 (Chinese Simplified)
 | 文档 | 描述 | 链接 |
 |---|---|---|
 | **执行摘要 (Executive Summary)** | 项目概览与创世愿景 | [在此查看](docs/executive_summary_zh.md) |
-| **全球GTM计划** | 国际 market 启动与扩张战略 | [在此查看](docs/global_gtm_en.md) |
+| **全球GTM计划** | 国际 Market 启动与扩张战略 | [在此查看](docs/global_gtm_en.md) |
 | **代理目录 (Agent Directory)** | 26位AI专家详细名录 | [在此查看](docs/agent_directory_zh.md) |
 | **项目评估 (Project Assessment)** | 项目综合评估报告 | [在此查看](docs/project_assessment_zh.md) |
 | **可行性报告 (Feasibility Report)** | 技术可行性详细报告 | [在此查看](docs/feasibility_report_zh.md) |
@@ -57,17 +58,17 @@
 | **グローバルGTMプラン** | グローバル市場投入・拡大戦略 | [ここを表示](docs/global_gtm_en.md) |
 | **エージェントディレクトリ (Agent Dir.)** | 26人のAI専門家詳細名簿 | [ここを表示](docs/agent_directory_ja.md) |
 | **プロジェクト評価 (Project Assess.)** | 総合プロジェクト評価報告書 | [ここを表示](docs/project_assessment_ja.md) |
-| **実現可能性レポート (Feasibility Rep.)** | 技術적 実現可能性レポート | [ここを表示](docs/feasibility_report_ja.md) |
+| **実現可能性レポート (Feasibility Rep.)** | 技術的実現可能性レポート | [ここを表示](docs/feasibility_report_ja.md) |
 
 ---
 
-## 🏛️ Trung Tâm Liên Lạc Chiến Lược (Partnership & Investor Relations)
+## 🏛️ Partnership & Investor Relations (Strategic Contact Center)
 
-Hệ thống được sáng lập và dẫn dắt bởi **Mer Nguyen (@minhnguyenkhac1983)** dành cho các đối tác chiến lược và nhà đầu tư quan tâm đến giai đoạn nâng cấp **Imperial Nexus**.
+This system was founded and led by **Mar Nguyen (@minhnguyenkhac1983)** for strategic partners and investors interested in the **Imperial Nexus** upgrade phase.
 
-| Kênh liên lạc | Chi tiết |
+| Channel | Details |
 |---|---|
-| **👤 Founder** | **Mer Nguyen** |
+| **👤 Founder** | **Mar Nguyen** |
 | **🐙 GitHub** | [github.com/minhnguyenkhac1983](https://github.com/minhnguyenkhac1983) |
 | **🛡️ Secure Chat** | [Telegram: @MerNguyen](https://t.me/MerNguyen) |
 | **💬 Discord** | [discord.gg/marnguyen](https://discord.gg/marnguyen) |
