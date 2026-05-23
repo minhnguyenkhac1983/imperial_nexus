@@ -4,69 +4,75 @@
 ![Status](https://img.shields.io/badge/Status-Architected_&_Fundraising-blue)
 ![Backend](https://img.shields.io/badge/Backend-Go_|_Rust_|_Python-green)
 
-**OmniSync Hub** is a next-generation financial ecosystem, operating on a **Sovereign AI** platform powered by a cluster of 72 NVIDIA Blackwell GPUs.
+**OmniSync Hub** is a next-generation financial ecosystem operating on a **Sovereign AI** framework, powered by a local 72-GPU NVIDIA Blackwell cluster.
 
 ## 🚀 Project Highlights
+*   **32 AI Agents:** A local fleet of AI Agents operating autonomously and specialized for each financial domain.
+*   **Imperial Infrastructure:** On-premise NVIDIA GB200 NVL72 rack-scale systems, eliminating third-party Cloud API dependencies.
+*   **Trio Architecture:** Maximizing the combined power of Go (Services), Rust (High-Performance Engine), and Python (AI/ML).
+*   **Absolute Security:** All data and AI inference remain inside a secure local fortress.
 
-*   **26 AI Experts:** A team of specialized local AI Agents dedicated to each financial domain.
-*   **Imperial Infrastructure:** Proprietary NVIDIA GB200 NVL72 rack system, eliminating dependency on Cloud APIs.
-*   **Trio Architecture:** Maximum utilization of Go, Rust, and Python as the financial interconnect backbone.
-*   **Absolute Security:** All data and AI intelligence reside within an on-premise fortress — nothing leaves.
+## 🌐 Live Monitor & Landing Page
+The system is fully deployed and operational on the local Kubernetes cluster, enabling real-time monitoring and control:
+*   **🏠 Live Dashboard:** [ftuhub.com](http://ftuhub.com) | Visual multi-lingual dashboard for the 32 AI Agents fleet.
+*   **📊 Telemetry Visualizer:** [Langfuse Portal](https://langfuse.ftuhub.com) | Real-time monitoring of RAG inference and agent performance.
+*   **📈 Stream Console:** [Redpanda Kafka Console](https://kafka-console.ftuhub.com) | Inspecting message bus events in real time.
+*   **💾 Cache & Session State:** [Valkey UI Monitor](http://valkey.ftuhub.com) | Monitoring the distributed Valkey 8.0 Cluster performance.
 
 ## 🧧 Strategic Documentation (5 Languages)
 
-### 🇺🇸 English
+### 🇻🇳 Tiếng Việt (Vietnamese)
 | Document | Description | Link |
 |---|---|---|
-| **Executive Summary** | Project Overview & Imperial Vision | [View here](docs/executive_summary_en.md) |
-| **Global GTM Plan** | Global Launch Plan | [View here](docs/global_gtm_en.md) |
-| **Agent Directory** | 26 AI Experts Detailed Directory | [View here](docs/agent_directory_en.md) |
-| **Project Assessment** | Comprehensive Project Assessment | [View here](docs/project_assessment_en.md) |
-| **Feasibility Report** | Technical Feasibility Report | [View here](docs/feasibility_report_en.md) |
+| **Executive Summary** | Project Overview & Imperial Vision (Vietnamese) | [View here](docs/executive_summary.md) |
+| **Global GTM Plan** | Global Launch Strategy (Vietnamese) | [View here](docs/global_gtm.md) |
+| **Agent Directory** | 32 AI Agents Detailed Directory (Vietnamese) | [View here](docs/agent_directory.md) |
+| **Project Assessment** | Comprehensive Project Evaluation (Vietnamese) | [View here](docs/project_assessment.md) |
+| **Feasibility Report** | Technical Feasibility Report (Vietnamese) | [View here](docs/feasibility_report.md) |
 
-### 🇻🇳 Tiếng Việt (Vietnamese)
-| Tài liệu | Mô tả | Liên kết |
+### 🇺🇸 English (Tiếng Anh)
+| Document | Description | Link |
 |---|---|---|
-| **Executive Summary** | Tóm tắt dự án & Tầm nhìn Imperial | [Xem tại đây](docs/executive_summary.md) |
-| **Global GTM Plan** | Kế hoạch ra mắt toàn cầu | [Xem tại đây](docs/global_gtm.md) |
-| **Agent Directory** | Danh bạ chi tiết 26 Chuyên gia AI | [Xem tại đây](docs/agent_directory.md) |
-| **Project Assessment** | Đánh giá toàn diện tiềm năng | [Xem tại đây](docs/project_assessment.md) |
-| **Feasibility Report** | Báo cáo khả thi kỹ thuật | [Xem tại đây](docs/feasibility_report.md) |
+| **Executive Summary** | Project Overview & Imperial Vision (English) | [View here](docs/executive_summary_en.md) |
+| **Global GTM Plan** | Global Go-to-Market Strategy (English) | [View here](docs/global_gtm_en.md) |
+| **Agent Directory** | 32 AI Agents Detailed Directory (English) | [View here](docs/agent_directory_en.md) |
+| **Project Assessment** | Comprehensive Project Assessment (English) | [View here](docs/project_assessment_en.md) |
+| **Feasibility Report** | Technical Feasibility Report (English) | [View here](docs/feasibility_report_en.md) |
 
 ### 🇨🇳 中文 (Chinese Simplified)
-| 文档 | 描述 | 链接 |
+| Document | Description | Link |
 |---|---|---|
-| **执行摘要 (Executive Summary)** | 项目概览与创世愿景 | [在此查看](docs/executive_summary_zh.md) |
-| **全球GTM计划** | 国际 Market 启动与扩张战略 | [在此查看](docs/global_gtm_en.md) |
-| **代理目录 (Agent Directory)** | 26位AI专家详细名录 | [在此查看](docs/agent_directory_zh.md) |
-| **项目评估 (Project Assessment)** | 项目综合评估报告 | [在此查看](docs/project_assessment_zh.md) |
-| **可行性报告 (Feasibility Report)** | 技术可行性详细报告 | [在此查看](docs/feasibility_report_zh.md) |
+| **Executive Summary** | Project Overview & Imperial Vision (Chinese) | [View here](docs/executive_summary_zh.md) |
+| **Global GTM Plan** | Global Go-to-Market Strategy (English) | [View here](docs/global_gtm_en.md) |
+| **Agent Directory** | 32 AI Agents Detailed Directory (Chinese) | [View here](docs/agent_directory_zh.md) |
+| **Project Assessment** | Comprehensive Project Assessment (Chinese) | [View here](docs/project_assessment_zh.md) |
+| **Feasibility Report** | Technical Feasibility Report (Chinese) | [View here](docs/feasibility_report_zh.md) |
 
 ### 🇰🇷 한국어 (Korean)
-| 문서 | 설명 | 링크 |
+| Document | Description | Link |
 |---|---|---|
-| **경영 요약 (Executive Summary)** | 프로젝트 개요 및 임페리얼 비전 | [여기서 보기](docs/executive_summary_ko.md) |
-| **글로벌 GTM 계획** | 글로벌 시장 출시 및 확장 전략 | [여기서 보기](docs/global_gtm_en.md) |
-| **에이전트 디렉토리 (Agent Directory)** | 26인의 AI 전문가 상세 명단 | [여기서 보기](docs/agent_directory_ko.md) |
-| **프로젝트 평가 (Project Assessment)** | 종합 프로젝트 평가 보고서 | [여기서 보기](docs/project_assessment_ko.md) |
-| **타당성 보고서 (Feasibility Report)** | 기술적 타당성 조사 보고서 | [여기서 보기](docs/feasibility_report_ko.md) |
+| **Executive Summary** | Project Overview & Imperial Vision (Korean) | [View here](docs/executive_summary_ko.md) |
+| **Global GTM Plan** | Global Go-to-Market Strategy (English) | [View here](docs/global_gtm_en.md) |
+| **Agent Directory** | 32 AI Agents Detailed Directory (Korean) | [View here](docs/agent_directory_ko.md) |
+| **Project Assessment** | Comprehensive Project Assessment (Korean) | [View here](docs/project_assessment_ko.md) |
+| **Feasibility Report** | Technical Feasibility Report (Korean) | [View here](docs/feasibility_report_ko.md) |
 
 ### 🇯🇵 日本語 (Japanese)
-| ドキュメント | 説明 | 链接 |
+| Document | Description | Link |
 |---|---|---|
-| **エグゼクティブサマリー (Ex. Summary)** | プロジェクト概要とインペリアル・ビジョン | [ここを表示](docs/executive_summary_ja.md) |
-| **グローバルGTMプラン** | グローバル市場投入・拡大戦略 | [ここを表示](docs/global_gtm_en.md) |
-| **エージェントディレクトリ (Agent Dir.)** | 26人のAI専門家詳細名簿 | [ここを表示](docs/agent_directory_ja.md) |
-| **プロジェクト評価 (Project Assess.)** | 総合プロジェクト評価報告書 | [ここを表示](docs/project_assessment_ja.md) |
-| **実現可能性レポート (Feasibility Rep.)** | 技術的実現可能性レポート | [ここを表示](docs/feasibility_report_ja.md) |
+| **Executive Summary** | Project Overview & Imperial Vision (Japanese) | [View here](docs/executive_summary_ja.md) |
+| **Global GTM Plan** | Global Go-to-Market Strategy (English) | [View here](docs/global_gtm_en.md) |
+| **Agent Directory** | 32 AI Agents Detailed Directory (Japanese) | [View here](docs/agent_directory_ja.md) |
+| **Project Assessment** | Comprehensive Project Assessment (Japanese) | [View here](docs/project_assessment_ja.md) |
+| **Feasibility Report** | Technical Feasibility Report (Japanese) | [View here](docs/feasibility_report_ja.md) |
 
 ---
 
-## 🏛️ Partnership & Investor Relations (Strategic Contact Center)
+## 🏛️ Strategic Contact Center (Partnership & Investor Relations)
 
-This system was founded and led by **Mar Nguyen (@minhnguyenkhac1983)** for strategic partners and investors interested in the **Imperial Nexus** upgrade phase.
+The system is founded and led by **Mer Nguyen (@minhnguyenkhac1983)**, dedicated to strategic partners and investors interested in the **Imperial Nexus** upgrading phase.
 
-| Channel | Details |
+| Contact Channel | Details |
 |---|---|
 | **👤 Founder** | **Mar Nguyen** |
 | **🐙 GitHub** | [github.com/minhnguyenkhac1983](https://github.com/minhnguyenkhac1983) |

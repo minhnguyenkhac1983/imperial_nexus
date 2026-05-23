@@ -1,6 +1,6 @@
-# Imperial Nexus: 26 AI Experts (Agent Directory)
+# Imperial Nexus: 32 AI Experts (Agent Directory)
 
-**Imperial Nexus** operates based on a team of 26 specialized AI Agents, each an intellectual entity optimized for specific financial operations. In the **Imperial** stage, all these Agents will run the **DeepSeek-V3 (671B)** model directly on local infrastructure.
+**Imperial Nexus** operates based on a team of 32 specialized AI Agents, each an intellectual entity optimized for specific financial operations. In the **Imperial** stage, all these Agents will run the **DeepSeek-V3 (671B)** model directly on local infrastructure.
 
 ## 🧠 The Command Layer
 1.  **CEO (Strategic Hub):** 
@@ -66,5 +66,19 @@
 26. **CRM Strategist (Sales/Loyalty):** 
     - **Mission:** Sales funnel management and Marketing Automation.
 
+## ⚙️ System Optimization & Support Layer
+27. **Business Analysis (Biz):**
+    - **Mission:** Analyzes business needs, writes tech specifications.
+28. **Internal Ops (HQ):**
+    - **Mission:** Coordinates internal operations and risk controls.
+29. **Prompt Eng (HQ):**
+    - **Mission:** Prompt template engineering, tests system prompts.
+30. **Database Admin (Data):**
+    - **Mission:** PostgreSQL query optimizer, logs database migrations.
+31. **Chaos & Healing (Ops):**
+    - **Mission:** Chaos engineering, triggers self-healing pod failover.
+32. **Reconciliation (Fin):**
+    - **Mission:** Real-time ledger auditor, resolves financial conflicts.
+
 ---
-*OmniSync Hub: Global Power - 26 Financial Super-Intelligences.*
+*OmniSync Hub: Global Power - 32 Financial Super-Intelligences.*

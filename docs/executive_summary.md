@@ -10,7 +10,7 @@
 *   **Universal Frontend:** Nền tảng **Flutter** duy nhất cho Web, Mobile, và Desktop.
 
 ## 🏰 Quy Mô Hệ Sinh Thái
-*   **26 Chuyên Gia AI (Expert Agents):** Phụ trách 22 Domain nghiệp vụ cốt lõi và hệ thống an ninh/tối ưu.
+*   **32 Chuyên Gia AI (Expert Agents):** Phụ trách toàn diện các Domain nghiệp vụ cốt lõi, bảo mật tự động hóa và tự chữa lành hệ thống.
 *   **Hạ tầng Phân tầng (Hybrid):** 
     *   **Lab/R&D:** Chế độ Lean (AMD/Spark) để tối ưu hóa chi phí nghiên cứu.
     *   **Production:** Hệ thống Imperial (NVIDIA/Dell) dành cho các giao dịch quy mô tỷ USD.
@@ -20,6 +20,9 @@ Sở hữu Private Data & Private AI là tài sản vô giá trong kỷ nguyên 
 
 ## 🚀 Lộ Trình (Roadmap)
 Dự án đã hoàn tất **100% quy hoạch kiến trúc và thiết kế hệ thống**. Chúng tôi đang tiến hành xây dựng các Node Lab đầu tiên và sẵn sàng cho việc mở rộng quy mô toàn cầu.
+
+## 🌐 Trực Tuyến & Giám Sát (Live Dashboard)
+Hệ thống đã được triển khai thực tế và giám sát trực tiếp tại: [ftuhub.com](http://ftuhub.com)
 
 ---
 **Imperial Nexus** - *Reinventing Finance with Sovereign AI.*

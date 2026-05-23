@@ -1,6 +1,6 @@
-# Imperial Nexus: Danh bạ 26 Chuyên gia AI (Agent Directory)
+# Imperial Nexus: Danh bạ 32 Chuyên gia AI (Agent Directory)
 
-**Imperial Nexus** vận hành dựa trên đội ngũ 26 Agent AI chuyên biệt, mỗi Agent là một thực thể trí tuệ được tối ưu hóa cho từng nghiệp vụ tài chính cụ thể. Trong giai đoạn **Imperial**, toàn bộ các Agent này sẽ chạy model **DeepSeek-V3 (671B)** trực tiếp trên hạ tầng local.
+**Imperial Nexus** vận hành dựa trên đội ngũ 32 Agent AI chuyên biệt, mỗi Agent là một thực thể trí tuệ được tối ưu hóa cho từng nghiệp vụ tài chính cụ thể. Trong giai đoạn **Imperial**, toàn bộ các Agent này sẽ chạy model **DeepSeek-V3 (671B)** trực tiếp trên hạ tầng local.
 
 ## 🧠 Lớp Chỉ huy (The Command Layer)
 1.  **CEO (Strategic Hub):** 
@@ -66,5 +66,19 @@
 26. **CRM Strategist (Sales/Loyalty):** 
     - **Nhiệm vụ:** Quản lý phễu bán hàng, Marketing Automation.
 
+## ⚙️ Lớp Bổ trợ & Tối ưu hóa Hệ thống (System Optimization & Support Layer)
+27. **Business Analysis (Biz):**
+    - **Nhiệm vụ:** Phân tích yêu cầu nghiệp vụ viết Technical Specs.
+28. **Internal Ops (HQ):**
+    - **Nhiệm vụ:** Điều phối vận hành nội bộ và quản trị rủi ro.
+29. **Prompt Eng (HQ):**
+    - **Nhiệm vụ:** Tối ưu hóa prompt template, kiểm thử System Prompts.
+30. **Database Admin (Data):**
+    - **Nhiệm vụ:** Tối ưu hóa query PostgreSQL, di chuyển bảng ClickHouse.
+31. **Chaos & Healing (Ops):**
+    - **Nhiệm vụ:** Kiểm thử phá hủy dịch vụ, tự chữa lành mạng Flannel.
+32. **Reconciliation (Fin):**
+    - **Nhiệm vụ:** Đối soát ledger tài chính thời gian thực tự xử lý tranh chấp.
+
 ---
-*OmniSync Hub: Tầm vóc Toàn cầu - 26 Siêu Trí Tuệ Tài chính.*
+*OmniSync Hub: Tầm vóc Toàn cầu - 32 Siêu Trí Tuệ Tài chính.*

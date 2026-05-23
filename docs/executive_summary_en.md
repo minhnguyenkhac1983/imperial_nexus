@@ -10,7 +10,7 @@
 *   **Universal Frontend:** A single **Flutter** platform for Web, Mobile, and Desktop.
 
 ## 🏰 Ecosystem Scale
-*   **26 AI Experts:** Responsible for 22 core business domains and security/optimization systems.
+*   **32 AI Experts:** Responsible for core business domains, automated security, and system self-healing.
 *   **Hybrid Tiered Infrastructure:** 
     *   **Lab/R&D:** Lean mode (AMD/Spark) to optimize research costs.
     *   **Production:** Imperial system (NVIDIA/Dell) for billion-dollar scale transactions.
@@ -20,6 +20,9 @@ Owning Private Data & Private AI is an invaluable asset in the era of absolute d
 
 ## 🚀 Roadmap
 The project has completed **100% of architectural planning and system design**. We are currently building the first Lab Nodes and are ready for global scaling.
+
+## 🌐 Live Monitor & Landing Page
+The system has been successfully deployed and can be monitored live at: [ftuhub.com](http://ftuhub.com)
 
 ---
 **Imperial Nexus** - *Reinventing Finance with Sovereign AI.*
