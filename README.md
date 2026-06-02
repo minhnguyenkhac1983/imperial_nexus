@@ -16,7 +16,7 @@
 The system is fully deployed and operational on the local Kubernetes cluster, enabling real-time monitoring and control:
 *   **🏠 Live Dashboard:** [ftuhub.com](http://ftuhub.com) | Visual multi-lingual dashboard for the 32 AI Agents fleet.
 *   **📊 Telemetry Visualizer:** [Langfuse Portal](https://langfuse.ftuhub.com) | Real-time monitoring of RAG inference and agent performance.
-*   **📈 Stream Console:** [Redpanda Kafka Console](https://kafka-console.ftuhub.com) | Inspecting message bus events in real time.
+*   **📈 Stream Console:** [Redpanda Kafka Console](https://kafka.ftuhub.com) | Inspecting message bus events in real time.
 *   **💾 Cache & Session State:** [Valkey UI Monitor](http://valkey.ftuhub.com) | Monitoring the distributed Valkey 8.0 Cluster performance.
 
 ## 🧧 Strategic Documentation (5 Languages)
