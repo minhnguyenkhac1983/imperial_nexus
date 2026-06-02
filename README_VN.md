@@ -16,7 +16,7 @@
 Hệ thống đã được triển khai trực tuyến trên hạ tầng Kubernetes local, cho phép theo dõi và vận hành thời gian thực:
 *   **🏠 Live Dashboard:** [ftuhub.com](http://ftuhub.com) | Bản Giao Hưởng 32 AI Agents trực quan đa ngôn ngữ.
 *   **📊 Trực quan Telemetry:** [Langfuse Portal](https://langfuse.ftuhub.com) | Giám sát luồng suy luận RAG và hiệu năng thực tế từng Agent.
-*   **📈 Stream Console:** [Redpanda Kafka Console](https://kafka-console.ftuhub.com) | Kiểm tra dữ liệu truyền tải qua Event Bus thời gian thực.
+*   **📈 Stream Console:** [Redpanda Kafka Console](https://kafka.ftuhub.com) | Kiểm tra dữ liệu truyền tải qua Event Bus thời gian thực.
 *   **💾 Cache & Session State:** [Valkey UI Monitor](http://valkey.ftuhub.com) | Giám sát hiệu năng cụm Valkey 8.0 Cluster phân tán.
 
 ## 🧧 Tài Liệu Chiến Lược (Strategic Documentation - 5 Languages)
